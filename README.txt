@@ -14,7 +14,7 @@ This plugin extends Events Manager to allow follow-up emails to be sent after an
 
 After Events Mailer is designed to send emails to booking lists from ended [Events Manager](https://wordpress.org/plugins/events-manager/) events the day after they end. This plugin only sends emails to approved bookings.
 
-The mailer will start sending emails the day after activating the plugin.
+The mailer will start sending emails the day after activating the plugin. The settings can be adjusted on the AfterEM page in the Events menu.
 
 **Features**
 
@@ -28,7 +28,7 @@ Visit [AfterEM's Bitbucket page](https://bitbucket.org/gsulibwebmaster/after-em/
 
 This plugin will not work without the [Events Manager plugin](https://wordpress.org/plugins/events-manager/).
 
-1. Upload the after-em directory to the plugins folder.
+1. Upload the afterem directory to the plugins folder.
 2. Activate the plugin on the plugins section of the dashboard.
 
 == Screenshots ==
